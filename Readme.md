@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning python, DSA, STM32 nucleo boards and embedded C
 - 👯 I’m looking to collaborate on Python projects, Hardware programming.
 - 💬 Ask me about DSA, Python, Electronics, Data analytics
-- 📫 How to reach me: 0729634366
+- 📫 How to reach me: +254729634366
 
 
 
