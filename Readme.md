@@ -3,7 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franfreezy&label=Profile%20views&color=ba0bea&style=flat" alt="franfreezy" /> </p>
 
-- 🔭 I’m currently working on a **Agricultural monitoring satellite**
+
+- ## About Me
+
+- 🔭 I’m currently working on building a satellite with KSA.
+- 🌱 I’m currently learning python, DSA, STM32 nucleo boards and embedded C
+- 👯 I’m looking to collaborate on Python projects, Hardware programming.
+- 💬 Ask me about DSA, Python, Electronics, Data analytics
+- 📫 How to reach me: 0729634366
+
+
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/frandel-wanjawa/)
+- [Twitter](https://twitter.com/codewithfreezy)
+
+
+Feel free to explore my repositories and reach out if you'd like to collaborate or chat!
 
 - 🔗 [Visit my website](https://devfreezy.netlify.app/)
 
