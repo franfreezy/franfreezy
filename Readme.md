@@ -5,7 +5,8 @@
 
 - 🔭 I’m currently working on a **Agricultural monitoring satellite**
 
-- 🔗 You can see my links at **https://devfreezy.netlify.app/**
+- 🔗 [Visit my website](https://devfreezy.netlify.app/)
+
 
 
 
