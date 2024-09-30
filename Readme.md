@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning python, DSA, STM32 nucleo boards and embedded C
 - 👯 I’m looking to collaborate on Python projects, Hardware programming.
 - 💬 Ask me about DSA, Python, Electronics, Data analytics
-- 📫 How to reach me: +254729634366
+- 📫 How to reach me: <a href="https://wa.me/254729634366" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> 
 
 
 
