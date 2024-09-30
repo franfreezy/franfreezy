@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Frandel</h1>
-<h3 align="center">An Electronics and Computer engineer</h3>
+<h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2000&pause=1000&color=FF2D2D&vCenter=true&random=false&width=500&height=30&lines=Hi+there%2C+I'm+Dev+Frandel+%F0%9F%91%8B%F0%9F%8F%BB;I'm+a+Software+Engineer+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+a+Data+Engineer+%F0%9F%A7%91%E2%80%8D%F0%9F%8F%AB;I'm+an+Electronics+and+Computer+Engineer+%F0%9F%9A%A9" alt="frandel's banner" />
+  </a>
+</h2>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franfreezy&label=Profile%20views&color=ba0bea&style=flat" alt="franfreezy" /> </p>
 
