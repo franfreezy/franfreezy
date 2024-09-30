@@ -26,7 +26,7 @@
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat!
 
-- 🔗 [Visit my website](https://devfreezy.netlify.app/)
+- 🔗 <a href="https://devfreezy.netlify.app/"><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 
 
 
