@@ -29,7 +29,7 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
  <a href="https://devfreezy.netlify.app/"><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 
 
-
+[![An image of @franfreezy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/franfreezy)](https://holopin.io/@franfreezy)
 
 <p align="left">
 </p>
