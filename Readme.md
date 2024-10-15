@@ -16,7 +16,7 @@
 - 💬 Ask me about DSA, Python, Electronics, Data analytics
 - 📫 How to reach me: <a href="https://wa.me/254729634366" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> 
 
-[![Frandel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=franfreezy&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Frandel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=franfreezy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Connect with Me
