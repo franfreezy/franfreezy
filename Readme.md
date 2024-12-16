@@ -10,6 +10,7 @@
 
 - ## About Me
 
+<a href="https://devfreezy.netlify.app/"><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
 - 🔭 I’m currently working on building a satellite with KSA.
 - 🌱 I’m currently learning python, DSA, STM32 nucleo boards and embedded C
 - 👯 I’m looking to collaborate on Python projects, Hardware programming.
@@ -27,7 +28,7 @@
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat!
 
- <a href="https://devfreezy.netlify.app/"><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
+ 
 
 [![An image of @franfreezy's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/franfreezy)](https://holopin.io/@franfreezy)
 
@@ -44,4 +45,4 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
  
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=franfreezy&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Frandel Wanjawa's current streak](https://streak-stats.demolab.com/?user=franfreezy&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![OxDevFrandel's current streak](https://streak-stats.demolab.com/?user=franfreezy&count_private=true&theme=blue-green&title_color=00b3ff)](#)
