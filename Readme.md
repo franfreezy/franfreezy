@@ -22,8 +22,8 @@
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/frandel-wanjawa/)
-- [Twitter](https://twitter.com/codewithfreezy)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frandel-wanjawa/)
+- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codewithfreezy)
 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat!
