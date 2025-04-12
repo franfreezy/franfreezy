@@ -11,19 +11,17 @@
 - ## About Me
 
 <a href="https://devfreezy.netlify.app/"><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
-- 🔭 I’m currently working on building a satellite with KSA.
-- 🌱 I’m currently learning python, DSA, STM32 nucleo boards and embedded C
-- 👯 I’m looking to collaborate on Python projects, Hardware programming.
-- 💬 Ask me about DSA, Python, Electronics, Data analytics
+- 🔭 I’m currently building Tethics Electrics Grp.
+- 🌱 I’m currently building with python, C++, JavaScript and embedded C
+- 👯 I’m looking to collaborate on AI agents, Data Engineering, Innovation and Problem solving.
+- 💬 Ask me about AI, Web development, Electronics, Data analytics.
 - 📫 How to reach me: <a href="https://wa.me/254729634366" title="Whatsapp"><img alt="whatsapp"  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="30" align="center"/></a> 
-
-[![Frandel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=franfreezy&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## Connect with Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/frandel-wanjawa/)
-- [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codewithfreezy)
+
 
 
 Feel free to explore my repositories and reach out if you'd like to collaborate or chat!
