@@ -4,7 +4,7 @@
   </a>
 </h2>
 
-
+[![wakatime](https://wakatime.com/badge/user/b5ddf75f-2347-49b0-b8ca-c45da23fd283.svg)](https://wakatime.com/@b5ddf75f-2347-49b0-b8ca-c45da23fd283)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=franfreezy&label=Profile%20views&color=ba0bea&style=flat" alt="franfreezy" /> </p>
 
 
