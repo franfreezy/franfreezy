@@ -35,7 +35,6 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=mysql,html,postgres,css,tailwind,python,php,arduino,c,cpp,js,react,vite,md,git,github,vscode,styledcomponents,postman,stackoverflow&perline=13)](#)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" 
  [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=franfreezy&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![OxDevFrandel's current streak](https://streak-stats.demolab.com/?user=franfreezy&count_private=true&theme=blue-green&title_color=00b3ff)](#)
