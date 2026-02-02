@@ -32,9 +32,6 @@ Feel free to explore my repositories and reach out if you'd like to collaborate 
 <p align="left">
 </p>
 
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" />
-
 **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=mysql,html,postgres,css,tailwind,python,php,arduino,c,cpp,js,react,vite,md,git,github,vscode,styledcomponents,postman,stackoverflow&perline=13)](#)
 
