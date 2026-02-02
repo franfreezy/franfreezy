@@ -11,7 +11,6 @@
 - ## About Me
 
 <a href="https://devfreezy.netlify.app/"><img src="https://img.shields.io/badge/Personal Site-100000?style=for-the-badge&logo=github&logoColor=white" /></a> 
-- 🔭 I’m currently building Tethics Electrics Grp.
 - 🌱 I’m currently building with python, C++, JavaScript and embedded C
 - 👯 I’m looking to collaborate on AI agents, Data Engineering, Innovation and Problem solving.
 - 💬 Ask me about AI, Web development, Electronics, Data analytics.
